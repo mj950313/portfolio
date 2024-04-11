@@ -21,7 +21,7 @@ export default function About() {
     <div>
       <Title title="A b o u t m e" />
       <div
-        style={{ backgroundImage: "url(/src/images/left.png)" }}
+        style={{ backgroundImage: "url(../src/images/left.png)" }}
         className="bg-center bg-[#0e0e0e] bg-cover flex justify-center"
       >
         <div className="px-3 py-9 sm:w-[600px] w-[350px] xl:w-[820px]">
