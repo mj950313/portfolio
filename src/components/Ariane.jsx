@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-scroll";
 import { animateScroll as scroll } from "react-scroll";
-import ariane from "../images/ariane.svg";
 
 export default function Ariane() {
   const scrollToTop = () => {
@@ -46,7 +45,7 @@ export default function Ariane() {
         </li>
       </ul>
 
-      <img src={ariane} alt="nav" className="ml-5" />
+      <img src="../src/images/ariane.png" alt="nav" className="ml-5" />
     </div>
   );
 }
