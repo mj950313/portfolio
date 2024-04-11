@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57px" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="ariane.svg" x="0px" y="0px" viewBox="0 0 57 571.6" style="enable-background:new 0 0 57 571.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FF5500;}
+	.st2{opacity:0.5;}
+	.st3{fill:#FF5500;}
+	.st4{opacity:0.5;fill:#FF5500;}
+</style>
+<g id="wires" class="st0">
+	<path id="Forme_1" class="st1" d="M35.5,4.9l1,0.2l-31,147l-1-0.2L35.5,4.9z"/>
+	<path id="Forme_2" class="st1" d="M4.5,152.2l1-0.3l47,228l-1,0.3L4.5,152.2z"/>
+	<path id="Forme_3" class="st1" d="M51.5,380l1,0.1l-12,189l-1-0.1L51.5,380z"/>
+</g>
+<g id="bullets" class="st2">
+	<circle class="st3" cx="36" cy="5" r="5"/>
+	<circle id="Ellipse_2_copie" class="st3" cx="5" cy="148" r="5"/>
+	<g id="Groupe_6">
+		<circle id="Ellipse_2_copie_4" class="st3" cx="21" cy="229" r="3"/>
+		<circle id="Ellipse_2_copie_5" class="st3" cx="32" cy="283" r="3"/>
+		<circle id="Ellipse_2_copie_6" class="st3" cx="47" cy="470" r="3"/>
+	</g>
+	<circle id="Ellipse_2_copie_2" class="st3" cx="52" cy="380" r="5"/>
+</g>
+<circle id="Ellipse_2_copie_3_00000117661889117946539400000017353919781880178831_" class="st4" cx="40.2" cy="565" r="5"/>
+</svg>
