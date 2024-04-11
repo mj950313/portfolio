@@ -8,7 +8,7 @@ export default function Ariane() {
   };
 
   return (
-    <div className="flex justify-center p-8 mt-8">
+    <div className="flex justify-center p-8 md:mt-8">
       <ul className="text-3xl text-right font-medium text-[#626262]">
         <li className="text-white cursor-pointer">
           <a onClick={scrollToTop}>H o m e</a>
