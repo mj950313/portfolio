@@ -9,7 +9,7 @@ export default function Ariane() {
 
   return (
     <div className="flex justify-center p-8 mt-8">
-      <ul className="text-3xl text-right text-[#626262]">
+      <ul className="text-3xl text-right font-medium text-[#626262]">
         <li className="text-white cursor-pointer">
           <a onClick={scrollToTop}>H o m e</a>
         </li>
@@ -33,19 +33,20 @@ export default function Ariane() {
             C a r e e r
           </Link>
         </li>
-        <li className="mt-[55px] text-2xl hover:text-white cursor-pointer">
+        <li className="mt-[50px] text-2xl hover:text-white cursor-pointer">
           <Link to="archiving" spy={true} smooth={true} duration={400}>
             A r c h i v i n g
           </Link>
         </li>
-        <li className="mt-[60px] hover:text-white cursor-pointer">
+        <li className="mt-[65px] hover:text-white cursor-pointer">
           <Link to="contact" spy={true} smooth={true} duration={400}>
             C o n t a c t
           </Link>
         </li>
       </ul>
-
-      <img src="../src/images/ariane.png" alt="nav" className="ml-5" />
+      <div>
+        <img src="../src/images/ariane.png" alt="nav" className="ml-5 mt-1" />
+      </div>
     </div>
   );
 }
