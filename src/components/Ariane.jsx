@@ -44,8 +44,7 @@ export default function Ariane() {
           </Link>
         </li>
       </ul>
-
-      <img src="/src/images/ariane.svg" alt="nav" className="ml-5" />
+      <img src="/images/ariane.svg" alt="nav" className="ml-5" />
     </div>
   );
 }
