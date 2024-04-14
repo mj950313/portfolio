@@ -51,5 +51,15 @@ body {
   }
 }
 
+.skillbox {
+  width: 70px;
+  height: 70px;
+  border-radius: 10%;
+}
+
+.skillbox:hover {
+  scale: 1.2;
+}
+
   
 
