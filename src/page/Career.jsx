@@ -5,7 +5,27 @@ export default function Career() {
   return (
     <div>
       <Title title="C a r e e r" />
-      Career
+      <div
+        style={{ backgroundImage: "url(/images/left.png)" }}
+        className="bg-center bg-[#0e0e0e] bg-cover flex justify-center"
+      >
+        <div className="p-5">
+          <div className="flex gap-3 items-baseline">
+            <img
+              className="w-6 rounded-lg"
+              src="/images/fastcampus.png"
+              alt="fastcampus"
+            />
+            <h2 className="text-3xl text-[#FC1C49]">FastCampus</h2>
+            <span className="text-xl font-semibold align-bottom">
+              2023.11.16 ~ 2024.06.14
+            </span>
+          </div>
+          <p className="text-right my-3">
+            패스트캠퍼스 : 프론트엔드 개발 부트캠프 7기
+          </p>
+        </div>
+      </div>
     </div>
   );
 }
