@@ -6,18 +6,18 @@ export default function Career() {
     <div>
       <Title title="C a r e e r" />
       <div
-        style={{ backgroundImage: "url(/images/left.png)" }}
+        style={{ backgroundImage: "url(/images/right.png)" }}
         className="bg-center bg-[#0e0e0e] bg-cover flex justify-center"
       >
         <div className="p-5">
-          <div className="flex gap-3 items-baseline">
+          <div className="flex gap-3 items-baseline font-semibold">
             <img
               className="w-6 rounded-lg"
               src="/images/fastcampus.png"
               alt="fastcampus"
             />
             <h2 className="text-3xl text-[#FC1C49]">FastCampus</h2>
-            <span className="text-xl font-semibold align-bottom">
+            <span className="text-xl align-bottom">
               2023.11.16 ~ 2024.06.14
             </span>
           </div>
