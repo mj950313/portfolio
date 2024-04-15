@@ -5,7 +5,9 @@ export default function Archivingbox({ title, link, des, li1, li2, li3 }) {
     <div className="bg-white w-96 text-[#070707] p-8 rounded-xl">
       <div className="flex flex-col gap-3">
         <h1 className="text-5xl font-extrabold">{title}</h1>
-        <a className="text-primary">{link}</a>
+        <a href={link} className="text-primary">
+          {link}
+        </a>
         <p className="font-bold">{des}</p>
       </div>
       <div className="flex flex-col gap-1 mt-3">

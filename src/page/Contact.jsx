@@ -20,7 +20,7 @@ export default function Contact() {
           </p>
           <p className="flex items-center text-xl gap-2">
             <FaPhoneAlt className="text-primary" />
-            Phone : 010 9809 3009
+            Phone : 010-9809-3009
           </p>
         </div>
         <a href="https://github.com/mj950313" className=" text-7xl p-5 mb-10">
